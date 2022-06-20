@@ -1,5 +1,5 @@
 # BaseUtils
-Tihis project is useful for writing java codes. It has some conveniences for progammers!
+Tihis project is useful for writing java codes. It has some conveniences for programmers!
 
 Dependency for this project:
 
